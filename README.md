@@ -1,13 +1,13 @@
 <h1 align="center">Hola👋, I'm Swati Arora aka swatia</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swatia-code&label=Profile%20views&color=0e75b6&style=flat" alt="swatia-code" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swati1111&label=Profile%20views&color=0e75b6&style=flat" alt="swatia-code" /> </p>
 
 - 🔭 I’m currently working on **Backend Technologies**
 
 - 🌱 I’m currently learning **literally everything that makes me a better developer and a good human being**
 
-- 👨‍💻 All of my projects are available at [https://github.com/swatia-code](https://github.com/swatia-code)
+- 👨‍💻 All of my projects are available at [https://github.com/swatia-code](https://github.com/swatiarora1111)
 
 - 📝 I regularly write articles on [https://medium.com/@aroraswati859](https://medium.com/@aroraswati859)
 
